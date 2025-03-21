@@ -1,0 +1,2 @@
+# Pachete-Software
+limbaj Python
